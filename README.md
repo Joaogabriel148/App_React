@@ -19,6 +19,8 @@ Abra [http://localhost:3001](http://localhost:3001) para visualizá-lo no seu na
 Executa o aplicativo no modo de desenvolvimento.\
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no seu navegador.
 
+<img src=""/>
+
 
 ### `npx json-server --port 3001 --watch db.json`
 
