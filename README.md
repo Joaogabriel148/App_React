@@ -3,27 +3,44 @@ Trabalho avaliativo de React Native para obtenção da nota da matéria de Códi
 
 ## Scripts Disponíveis
 
-No diretório do projeto, você pode executar:
+Para executar a aplicação voçê deve configurar as dependências do projeto. No diretório do projeto, execute:
 
-### `npm install axios`
+```s
+  `npm install axios`
+  `npm install json-server --save-dev`
+  `npm install -g json-server`
 
-### `npm install json-server --save-dev`
-
-### `npm install -g json-server`
+```
 <br/>
 Instala o servidor json no modo de desenvolvimento.\
 Abra [http://localhost:3001](http://localhost:3001) para visualizá-lo no seu navegador.
 
-### `npm start`
+```s
+  `npm start`
+```
 
 Executa o aplicativo no modo de desenvolvimento.\
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no seu navegador.
 
 <img src=""/>
 
-
-### `npx json-server --port 3001 --watch db.json`
+```s
+  `npx json-server --port 3001 --watch db.json`
+```
 
 Executa o servidor json no modo de desenvolvimento.\
 Abra [http://localhost:3001](http://localhost:3001) para visualizá-lo no seu navegador.
+
+## :handshake: Colaboradores
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Joaogabriel148">
+        <sub>
+          <b>Joaogabriel148</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
