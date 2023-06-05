@@ -1,9 +1,14 @@
-# App_React
+<h1 align="center">App_React</h1>
+
+## :memo: Descrição
 Trabalho avaliativo de React Native para obtenção da nota da matéria de Códigos de Alta Performance 
 
-## Scripts Disponíveis
+## :books: Contextualização
+* <b>Contextualização </b>: O projeto em si é uma aplicação de anotações, que terá como funcionalidades pricipais: criar uma anotação, excluir uma anotação, tornar importante e filtrar por importância.
 
-Para executar a aplicação voçê deve configurar as dependências do projeto. No diretório do projeto, execute:
+## dependências
+
+* Depois de configurar o seu ambiente React voçê deve configurar as dependências do projeto. No diretório do projeto, execute:
 
 ```s
   `npm install axios`
@@ -12,17 +17,18 @@ Para executar a aplicação voçê deve configurar as dependências do projeto. 
 
 ```
 <br/>
-Instala o servidor json no modo de desenvolvimento.\
-Abra [http://localhost:3001](http://localhost:3001) para visualizá-lo no seu navegador.
 
+## Execução
+
+Executa o aplicativo no modo de desenvolvimento.
 ```s
   `npm start`
 ```
-
-Executa o aplicativo no modo de desenvolvimento.\
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no seu navegador.
 
-<img src=""/>
+<img src="https://github.com/Joaogabriel148/App_React/blob/main/img/AppReact.png"/>
+
+## Servidor Json
 
 ```s
   `npx json-server --port 3001 --watch db.json`
