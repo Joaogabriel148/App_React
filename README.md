@@ -1,4 +1,4 @@
-<h1 align="center">App_React</h1>
+<h1 align="center">Notes-App</h1>
 
 ## :memo: Descrição
 Trabalho avaliativo de React Native para obtenção da nota da matéria de Códigos de Alta Performance 
